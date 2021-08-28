@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["plasm_runtime"] = [{"text":"impl WeightToFeePolynomial for <a class=\"struct\" href=\"plasm_runtime/struct.WeightToFee.html\" title=\"struct plasm_runtime::WeightToFee\">WeightToFee</a>","synthetic":false,"types":["plasm_runtime::WeightToFee"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
